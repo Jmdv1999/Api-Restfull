@@ -1,0 +1,9 @@
+{
+    "conexion": {
+        "server" : "localhost",
+        "user" : "root",
+        "pass" : "",
+        "database":"sistema_ventas",
+        "port" : "3306"
+    }
+}
